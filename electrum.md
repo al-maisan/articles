@@ -98,7 +98,7 @@ Last but not least install the Bitcoin wallet app on to your ledger nano device 
 
 This is what you should see if it all works.
 
-![This is what you should see](https://cryptostars.co/images/ledger-manager.png)
+![nano ledger setup success](https://cryptostars.co/images/ledger-manager.png)
 
 
 # digital bitbox setup
@@ -118,7 +118,7 @@ Download the [digital bitbox software](https://digitalbitbox.com/start_linux) an
 
 This is what you should see if it all works.
 
-![This is what you should see](https://cryptostars.co/images/dbb.png)
+![digital bitbox  setup success](https://cryptostars.co/images/dbb.png)
 
 # Electrum wallet
 * Download URL: https://download.electrum.org/3.0.2/Electrum-3.0.2.tar.gz
